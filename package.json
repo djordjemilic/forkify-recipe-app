@@ -9,7 +9,9 @@
   "license": "MIT",
   "devDependencies": {
     "@parcel/transformer-sass": "2.7.0",
-    "parcel": "^2.7.0"
+    "parcel": "^2.7.0",
+    "querystring-es3": "^0.2.1",
+    "url": "^0.11.0"
   },
   "dependencies": {
     "core-js": "^3.25.2",
